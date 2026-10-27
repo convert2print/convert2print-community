@@ -14,50 +14,6 @@ Today, the core processing technology is operational, and I'm expanding the plat
 
 ---
 
-## Creative Studio – Public Development Roadmap
-
-**Follow the development of our free creative workspace.**
-
-Creative Studio is being developed step by step, with two major milestones:
-
-### Milestone 1 – First Public Release
-**Status: In Development**
-
-Complete and launch the first Creative Studio workspace for digital wall art, including Artwork Library, Project Workspace, Resize & Crop, professional exports, batch processing and Mockup Studio.
-
-### Milestone 2 – Digital Product Creation Tools
-**Status: Planned**
-
-Expand Creative Studio with tools for SVG and vector artwork, printable stickers, digital planners, templates and other digital products.
-
-**Explore the full roadmap, development details and screenshots:**
-
-[View the Public Development Roadmap](https://github.com/users/convert2print/projects/1)
-
----
-
-## What Is Convert2Print?
-
-Convert2Print develops tools for professional artwork preparation and digital print production.
-
-The existing processing technology supports:
-
-- Professional image resizing and scaling
-- Color management and embedded ICC profiles
-- JPG and PDF/X-4 output
-- Print-ready file preparation
-- Multiple print sizes and aspect ratios
-- Batch processing and automated workflows
-- Print preflight and quality analysis
-
-The platform uses deterministic image-processing methods rather than generative AI to creatively reinterpret existing artwork.
-
-**The goal is to simplify complex technical workflows while preserving the original artwork.**
-
-Visit the platform: https://convert2print.com
-
----
-
 ## Introducing Convert2Print Creative Studio
 
 **One Free Studio. One Workspace. More Possibilities.**
@@ -100,6 +56,28 @@ Following the first public release, development will expand toward additional cr
 The long-term vision is to support many different types of digital creators within one accessible workspace.
 
 [View the Development Roadmap](https://github.com/users/convert2print/projects/1)
+
+---
+
+## What Is Convert2Print?
+
+Convert2Print develops tools for professional artwork preparation and digital print production.
+
+The existing processing technology supports:
+
+- Professional image resizing and scaling
+- Color management and embedded ICC profiles
+- JPG and PDF/X-4 output
+- Print-ready file preparation
+- Multiple print sizes and aspect ratios
+- Batch processing and automated workflows
+- Print preflight and quality analysis
+
+The platform uses deterministic image-processing methods rather than generative AI to creatively reinterpret existing artwork.
+
+**The goal is to simplify complex technical workflows while preserving the original artwork.**
+
+Visit the platform: https://convert2print.com
 
 ---
 
