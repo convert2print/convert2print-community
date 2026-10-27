@@ -14,6 +14,28 @@ Today, the core processing technology is operational, and I'm expanding the plat
 
 ---
 
+## Creative Studio – Public Development Roadmap
+
+**Follow the development of our free creative workspace.**
+
+Creative Studio is being developed step by step, with two major milestones:
+
+### Milestone 1 – First Public Release
+**Status: In Development**
+
+Complete and launch the first Creative Studio workspace for digital wall art, including Artwork Library, Project Workspace, Resize & Crop, professional exports, batch processing and Mockup Studio.
+
+### Milestone 2 – Digital Product Creation Tools
+**Status: Planned**
+
+Expand Creative Studio with tools for SVG and vector artwork, printable stickers, digital planners, templates and other digital products.
+
+**Explore the full roadmap, development details and screenshots:**
+
+[View the Public Development Roadmap](https://github.com/users/convert2print/projects/1)
+
+---
+
 ## What Is Convert2Print?
 
 Convert2Print develops tools for professional artwork preparation and digital print production.
